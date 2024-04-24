@@ -2,6 +2,7 @@ body{
     background-color:wheat;
     color: black;
     border: solid;
+    border-radius: 60px;
     border-color: darksalmon;
     text-align: center;
 }
