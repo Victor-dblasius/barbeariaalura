@@ -11,7 +11,8 @@ h1{
     text-align: center;
     background-color: burlywood;
     font-size: 100px;
-    border: 10px solid: color(srgb red green blue);
+    border: 10px solid;
+    border-color: black;
 }
 
 h2{
