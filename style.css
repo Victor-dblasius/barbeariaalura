@@ -1,0 +1,29 @@
+body{
+    background-color:wheat;
+    color: black;
+    border: solid;
+    border-color: darksalmon;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    background-color: burlywood;
+}
+
+h2{
+    text-align: center; 
+}
+
+
+ p{
+    margin-left: 03%;
+ }  
+
+ em strong{
+    color: chocolate;
+ }
+
+ img{
+    
+ }
