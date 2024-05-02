@@ -11,8 +11,8 @@ h1{
     text-align: center;
     background-color: burlywood;
     font-size: 100px;
-    border: 10px solid rgb(rgb(0, 0, 0), rgb(0, 0, 0),rgb(0, 0, 0));
-    border-color: ;
+    border: 10px solid ;
+    border-color: black ;
 }
 
 h2{
@@ -31,5 +31,8 @@ h2{
  #banner{
 width: 100%;
  }
-    
+  
+.itens{
+font-style: italic;
+ }
  
