@@ -51,7 +51,6 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
-    background-color: wheat;
 
 }
 
@@ -59,7 +58,9 @@ ul {
 background-color: wheat;
 
 }
-
+u{
+    background-color: wheat;
+}
 
 
 
