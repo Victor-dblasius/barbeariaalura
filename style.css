@@ -36,5 +36,14 @@ width: 100%;
 font-style: italic;
  }
  
+ .beneficios{
+    background: red;
+    padding: 20px;
+ }
+
+ .imagembeneficios{
+    width: 50%;
+ }
+
 
  /*coment*/
