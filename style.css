@@ -39,12 +39,11 @@ em strong {
 .beneficios {
     background-color: brown;
     padding: 20px;
+    padding-bottom: 20px;
 }
 
 .imagembeneficios {
     width: 30%;
-    padding-bottom: 20px;
-
 }
 
 ul {
