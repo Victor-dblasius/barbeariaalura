@@ -1,5 +1,5 @@
-body{
-    background-color:wheat;
+body {
+    background-color: wheat;
     color: black;
     border: solid;
     border-radius: 60px;
@@ -7,43 +7,47 @@ body{
     text-align: center;
 }
 
-h1{
+h1 {
     text-align: center;
     background-color: burlywood;
     font-size: 100px;
-    border: 10px solid ;
-    border-color: black ;
+    border: 10px solid;
+    border-color: black;
 }
 
-h2{
-    text-align: center; 
+h2 {
+    text-align: center;
 }
 
 
- p{
+p {
     margin-left: 03%;
- }  
+}
 
- em strong{
+em strong {
     color: chocolate;
- }
+}
 
- #banner{
-width: 100%;
- }
-  
-.itens{
-font-style: italic;
- }
- 
-.beneficios{
+#banner {
+    width: 100%;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
     background-color: brown;
     padding: 20px;
- }
+}
 
-.imagembeneficios{
+.imagembeneficios {
     width: 50%;
- }
+}
 
+ul {
+    display: inline-block;
+    
+}
 
- /*coment*/
+/*coment*/
